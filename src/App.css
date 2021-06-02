@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+.home,
+.message,
+.team,
+.reports,
+.support,
+.products{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    flex-direction: column;
+}
+p{
+    margin: 10px;
+    font-size: 12px;
+    font-style: italic;
+}
+input[type=text]{
+    padding: 6px;
+    margin-top: 8px;
+    border-radius: 2px;
+    border: none;
+}
+
+
+

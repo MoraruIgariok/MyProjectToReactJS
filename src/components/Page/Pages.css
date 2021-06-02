@@ -1,0 +1,19 @@
+.home{
+    
+    background-image: url('../images/img-home.jpg');
+}
+.reports{
+    background-image: url("../images/img-8.jpg");
+}
+.products{
+    background-image:url("../images/img-2.jpg")
+}
+.team{
+    background-image: url("../images/img-7.jpg");
+}
+.support{
+    background-image: url("../images/img-4.jpg");
+}
+.message{
+    background-image: url("../images/mess.jpg");
+}
